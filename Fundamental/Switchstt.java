@@ -1,3 +1,4 @@
+package Fundamental;
 import java.util.*;
 public class Switchstt {
   public static void main(String args[]){

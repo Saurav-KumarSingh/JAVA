@@ -8,10 +8,10 @@ public class InsertionSort {
     }
 
     public static void main(String[] args) {
-        int arr[] = { 3, 5, 1, 8, 4, 9 };
+        int arr[] = { 3, 5, 1, 8, 4, 2 };
         // insertion sort
         // timecomplexity=O(n^2)
-        for (int i = 0; i < arr.length - 1; i++) {
+        for (int i = 0; i < arr.length ; i++) {
             int current=arr[i];
             int j=i-1;
             while (j>=0 && current<arr[j]) {

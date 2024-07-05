@@ -1,3 +1,4 @@
+package Fundamental;
 
 public class FirstClass {
 

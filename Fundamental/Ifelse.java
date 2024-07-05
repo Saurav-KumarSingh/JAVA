@@ -1,3 +1,4 @@
+package Fundamental;
 import java.util.*;
 public class Ifelse {
     public static void main(String args[]){

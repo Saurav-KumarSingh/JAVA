@@ -1,3 +1,4 @@
+package Fundamental;
 
 public class ButterFlyPattern {
     public static void main(String[] args) {
