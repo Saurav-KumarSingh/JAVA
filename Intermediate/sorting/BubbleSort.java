@@ -1,4 +1,4 @@
-package sorting;
+package Intermediate.sorting;
 
 public class BubbleSort {
 

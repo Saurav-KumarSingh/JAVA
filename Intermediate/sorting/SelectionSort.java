@@ -1,4 +1,4 @@
-package sorting;
+package Intermediate.sorting;
 
 public class SelectionSort {
     public static void printArray(int arr[]) {
